@@ -30,13 +30,13 @@ I wanted to use something I enjoy as an opportunity to practise programming, par
 
 ### D&D Character Creator
 
-**Status:** In Progress
+**Status:** Completed
 
-This is my current project, inspired by my interest in Dungeons & Dragons.
+This is a project inspired by my interest in Dungeons & Dragons.
 
-My aim is to create a program that helps users create characters for the game. I'm using this project to challenge myself and build on the Python knowledge I've gained from my previous programs.
+I have created a program that helps users create characters for the game. I used this project to challenge myself and build on the Python knowledge I've gained from my previous programs.
 
-As I continue developing it, I hope to introduce more features and improve how the program is organised.
+This has allowed me to gain more technical knowledge and build something I am passionate about, whilst also solving a fundamental problem.
 
 ### Python Learning Notes
 
